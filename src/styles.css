@@ -1,0 +1,8 @@
+div {
+  background-color: lightgreen;
+  color: red;
+  font-size: 20;
+  background-image : url(my_son.jpg);
+  height: 400;
+  background-repeat: no-repeat;
+}
